@@ -33,7 +33,7 @@ group :test, :development do
  gem 'rspec-rails', '2.0.0.beta.22' 
  gem 'capybara' 
  gem 'database_cleaner' 
- gem 'cucumber-rails', :path => "vendor/gems/cucumber-rails"
+ gem 'cucumber-rails' 
  gem 'cucumber' 
  gem 'launchy' 
  #gem 'win32console' 
